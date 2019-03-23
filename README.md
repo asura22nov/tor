@@ -15,9 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<h3>postgres/hostname<h3>
-<p>2y4ivg7d5wc6xdabz5w7mejgf5zjf64yyhqnapa3cnhxmeopxdg3phqd.onion</p>
-<br>
+postgres/hostname
+2y4ivg7d5wc6xdabz5w7mejgf5zjf64yyhqnapa3cnhxmeopxdg3phqd.onion
+
   
 - Bulleted
 - List
